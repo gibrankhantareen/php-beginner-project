@@ -6,7 +6,7 @@ I am learning and using PHP. This was a mini project where I did the applied the
 - Learnt the Concept of how to use HTML with PHP
 - Made Registeration form for upcoming Blood Donation Camp
 - Learnt the Concept of connection of MySQL DB with PHP
-- How to create a new DB, Table in MySQL and how to insert values in it
+- How to create a new DB, Table in MySQL and how to insert values in it via PHP
 - I learnt what are form methods: POST and GET. When to use either of them
 - With help of that learning, the entered Donor's details get stored in MySQL Database using PHP
 - Then later on those details are fetched from the MySQL DB using PHP
